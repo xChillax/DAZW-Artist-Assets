@@ -1,0 +1,350 @@
+[
+	{
+		"index": 20,
+		"name": "WhiteSolid",
+		"text": "#ffffffff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 13,
+		"name": "WhiteTransparent",
+		"text": "#ffffff99",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 10,
+		"name": "CyanSolid",
+		"text": "#00ffffff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 32,
+		"name": "DarkRedSolid",
+		"text": "#912004ff",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 12,
+		"name": "GoldSolid",
+		"text": "#ffff66ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 21,
+		"name": "GreenSolid",
+		"text": "#99ff00ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 23,
+		"name": "MagentaSolid",
+		"text": "#ff66ccff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 34,
+		"name": "OrangeSolid",
+		"text": "#ffcc00ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 19,
+		"name": "BlueTransparent",
+		"text": "#66ccff99",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 14,
+		"name": "GoldTransparent",
+		"text": "#ffff6699",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 15,
+		"name": "GreenTransparent",
+		"text": "#99ff0099",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 16,
+		"name": "MagentaTransparent",
+		"text": "#ff66cc99",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 9,
+		"name": "EventBest",
+		"text": "#ffffffff",
+		"outline": "#c400007f"
+	},
+	{
+		"index": 11,
+		"name": "PvpNew",
+		"text": "#d4aba3ff",
+		"outline": "#781e0099"
+	},
+	{
+		"index": 6,
+		"name": "PvpPseudoTransparent",
+		"text": "#d5d3c0ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 26,
+		"name": "PvpSolid",
+		"text": "#d5d3c0ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 18,
+		"name": "PvpTransparent",
+		"text": "#d5d3c099",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 24,
+		"name": "ExpSolid",
+		"text": "#029dc9ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 25,
+		"name": "PositionsSolid",
+		"text": "#0099cccc",
+		"outline": "#00000026"
+	},
+	{
+		"index": 4,
+		"name": "ZombiepediaDescr",
+		"text": "#4c534cff",
+		"outline": "#0000001a"
+	},
+	{
+		"index": 40,
+		"name": "ZombiepediaKills",
+		"text": "#d13304ff",
+		"outline": "#0000001a"
+	},
+	{
+		"index": 17,
+		"name": "StarRewardTransparent",
+		"text": "#ff9f0099",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 5,
+		"name": "WarningMessage",
+		"text": "#ff3333ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 37,
+		"name": "WaterColor",
+		"text": "#66ffffff",
+		"outline": "#000000ff"
+	},
+	{
+		"index": 27,
+		"name": "DefaultWithBlueOutline",
+		"text": "#ffffffff",
+		"outline": "#058abdff"
+	},
+	{
+		"index": 29,
+		"name": "DefaultWithBrownishOutline",
+		"text": "#ffffffff",
+		"outline": "#844c4cff"
+	},
+	{
+		"index": 33,
+		"name": "DefaultWithRedOutline",
+		"text": "#ffffffff",
+		"outline": "#91200399"
+	},
+	{
+		"index": 30,
+		"name": "RedWithoutOutline",
+		"text": "#d13304ff",
+		"outline": "#00000000"
+	},
+	{
+		"index": 36,
+		"name": "GrayWithoutOutline",
+		"text": "#7f7f7fff",
+		"outline": "#00000000"
+	},
+	{
+		"index": 31,
+		"name": "LegacyBattleDeckMenu",
+		"text": "#4c534cff",
+		"outline": "#43434315"
+	},
+	{
+		"index": 7,
+		"name": "LegacyGrayish",
+		"text": "#65726dff",
+		"outline": "#c3cab17f"
+	},
+	{
+		"index": 39,
+		"name": "LegacyItemGrayish",
+		"text": "#4c534cff",
+		"outline": "#abad9fff"
+	},
+	{
+		"index": 28,
+		"name": "LegacyBrownish",
+		"text": "#6b6044ff",
+		"outline": "#cec482ff"
+	},
+	{
+		"index": 8,
+		"name": "DebugBlackTransparent",
+		"text": "#140101b3",
+		"outline": "#00000000"
+	},
+	{
+		"index": 38,
+		"name": "DebugDark",
+		"text": "#313131ff",
+		"outline": "#00000000"
+	},
+	{
+		"index": 35,
+		"name": "WhiteWithoutOutline",
+		"text": "#ffffffff",
+		"outline": "#00000000"
+	},
+	{
+		"index": 41,
+		"name": "RageColor",
+		"text": "#ff3399ff",
+		"outline": "#000000ff"
+	},
+	{
+		"index": 42,
+		"name": "XmasColor",
+		"text": "#99ccffff",
+		"outline": "#2a1d14c0"
+	},
+	{
+		"index": 43,
+		"name": "XmasTransparent",
+		"text": "#99ccff99",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 44,
+		"name": "WhiteWithRedOutline",
+		"text": "#ffffffff",
+		"outline": "#ff0000ff"
+	},
+	{
+		"index": 45,
+		"name": "HalloweenColor",
+		"text": "#ff6c00ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 46,
+		"name": "HalloweenTransparent",
+		"text": "#ff6c0099",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 47,
+		"name": "MixedColor",
+		"text": "#ff66ccff",
+		"outline": "#000000ff"
+	},
+	{
+		"index": 48,
+		"name": "RedWithOutline",
+		"text": "#ff9999ff",
+		"outline": "#c4000080"
+	},
+	{
+		"index": 49,
+		"name": "KeysColor",
+		"text": "#00ccffff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 50,
+		"name": "RedKeysColor",
+		"text": "#ff7f66ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 52,
+		"name": "ExpQuestBrownish",
+		"text": "#6b6044ff",
+		"outline": "#ad9e6aff"
+	},
+	{
+		"index": 53,
+		"name": "ExpQuestGold",
+		"text": "#e6d967ff",
+		"outline": "#736a4fff"
+	},
+	{
+		"index": 54,
+		"name": "SkinCoins",
+		"text": "#67ddffff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 57,
+		"name": "GoldenLevel",
+		"text": "#ffffffff",
+		"outline": "#ca5800ff"
+	},
+	{
+		"index": 58,
+		"name": "DarkOutlineLevel",
+		"text": "#ffffffff",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 59,
+		"name": "CharmPoints",
+		"text": "#ff9f00ff",
+		"outline": "#00000099"
+	},
+	{
+		"index": 60,
+		"name": "Difficulty0",
+		"text": "#79cf02ff",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 61,
+		"name": "Difficulty1",
+		"text": "#cccfceff",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 62,
+		"name": "Difficulty2",
+		"text": "#d9552eff",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 63,
+		"name": "Difficulty3",
+		"text": "#ff67f7ff",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 64,
+		"name": "Difficulty4",
+		"text": "#fbce32ff",
+		"outline": "#2d2d30ff"
+	},
+	{
+		"index": 65,
+		"name": "Difficulty5",
+		"text": "#a472ffff",
+		"outline": "#2d2d30ff"
+	}
+]

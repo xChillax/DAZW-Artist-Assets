@@ -26,6 +26,6 @@ From Mobirate themselves (pharaprased): Assets are also fine to use in any fan w
 ## Final Note
 I made this for all the people that make amazing things for the game and express their creativity and have kept the community alive for the longest time.
 
-Oh, also, Mobirate recently removed all references to me in the game, despite saying they would keep it, while also still keeping skins from someone that was openly a bigot and a user that drew rather innapropiate art of a minor, so... go figure about their priorities on what needs to be changed in the game.
+Oh, also, Mobirate recently removed all references to me in the game, despite saying they would keep it, while also still keeping skins from someone that was openly a bigot and a user that drew rather innapropiate art of a minor, so... go figure about their priorities.
 
 With love, Chillax.

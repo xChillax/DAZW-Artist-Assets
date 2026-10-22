@@ -1,0 +1,10312 @@
+{
+	"face": "Malgun Gothic",
+	"size": 13,
+	"lineHeight": 17,
+	"spaceAdvance": 5,
+	"sheets": {
+		"Latin": {
+			"file": "fonts/ko/Arial10.png",
+			"noOutline": "fonts/ko/Arial10 No Outline.png",
+			"width": 470,
+			"height": 88,
+			"rowHeight": 16,
+			"baseline": 12,
+			"glyphs": [
+				{
+					"char": "A",
+					"code": 65,
+					"x": 0,
+					"y": 0,
+					"width": 11,
+					"xoffset": -1,
+					"xadvance": 9
+				},
+				{
+					"char": "a",
+					"code": 97,
+					"x": 12,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "B",
+					"code": 66,
+					"x": 20,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "b",
+					"code": 98,
+					"x": 29,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "C",
+					"code": 67,
+					"x": 38,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "c",
+					"code": 99,
+					"x": 47,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 6
+				},
+				{
+					"char": "D",
+					"code": 68,
+					"x": 55,
+					"y": 0,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "d",
+					"code": 100,
+					"x": 65,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "E",
+					"code": 69,
+					"x": 74,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "e",
+					"code": 101,
+					"x": 82,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "F",
+					"code": 70,
+					"x": 91,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 6
+				},
+				{
+					"char": "f",
+					"code": 102,
+					"x": 99,
+					"y": 0,
+					"width": 6,
+					"xoffset": -1,
+					"xadvance": 4
+				},
+				{
+					"char": "G",
+					"code": 71,
+					"x": 106,
+					"y": 0,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "g",
+					"code": 103,
+					"x": 116,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "H",
+					"code": 72,
+					"x": 125,
+					"y": 0,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "h",
+					"code": 104,
+					"x": 135,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "I",
+					"code": 73,
+					"x": 144,
+					"y": 0,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 4
+				},
+				{
+					"char": "i",
+					"code": 105,
+					"x": 148,
+					"y": 0,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 3
+				},
+				{
+					"char": "J",
+					"code": 74,
+					"x": 152,
+					"y": 0,
+					"width": 5,
+					"xoffset": 0,
+					"xadvance": 5
+				},
+				{
+					"char": "j",
+					"code": 106,
+					"x": 158,
+					"y": 0,
+					"width": 5,
+					"xoffset": -2,
+					"xadvance": 3
+				},
+				{
+					"char": "K",
+					"code": 75,
+					"x": 164,
+					"y": 0,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "k",
+					"code": 107,
+					"x": 174,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "L",
+					"code": 76,
+					"x": 182,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 6
+				},
+				{
+					"char": "l",
+					"code": 108,
+					"x": 190,
+					"y": 0,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 3
+				},
+				{
+					"char": "M",
+					"code": 77,
+					"x": 194,
+					"y": 0,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 12
+				},
+				{
+					"char": "m",
+					"code": 109,
+					"x": 207,
+					"y": 0,
+					"width": 11,
+					"xoffset": 0,
+					"xadvance": 11
+				},
+				{
+					"char": "N",
+					"code": 78,
+					"x": 219,
+					"y": 0,
+					"width": 10,
+					"xoffset": 0,
+					"xadvance": 10
+				},
+				{
+					"char": "n",
+					"code": 110,
+					"x": 230,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "O",
+					"code": 79,
+					"x": 239,
+					"y": 0,
+					"width": 10,
+					"xoffset": 0,
+					"xadvance": 10
+				},
+				{
+					"char": "o",
+					"code": 111,
+					"x": 250,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "P",
+					"code": 80,
+					"x": 259,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "p",
+					"code": 112,
+					"x": 267,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "Q",
+					"code": 81,
+					"x": 276,
+					"y": 0,
+					"width": 11,
+					"xoffset": 0,
+					"xadvance": 10
+				},
+				{
+					"char": "q",
+					"code": 113,
+					"x": 288,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "R",
+					"code": 82,
+					"x": 297,
+					"y": 0,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "r",
+					"code": 114,
+					"x": 307,
+					"y": 0,
+					"width": 5,
+					"xoffset": 0,
+					"xadvance": 5
+				},
+				{
+					"char": "S",
+					"code": 83,
+					"x": 313,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "s",
+					"code": 115,
+					"x": 321,
+					"y": 0,
+					"width": 6,
+					"xoffset": 0,
+					"xadvance": 6
+				},
+				{
+					"char": "T",
+					"code": 84,
+					"x": 328,
+					"y": 0,
+					"width": 9,
+					"xoffset": -1,
+					"xadvance": 7
+				},
+				{
+					"char": "t",
+					"code": 116,
+					"x": 338,
+					"y": 0,
+					"width": 6,
+					"xoffset": -1,
+					"xadvance": 4
+				},
+				{
+					"char": "U",
+					"code": 85,
+					"x": 345,
+					"y": 0,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "u",
+					"code": 117,
+					"x": 355,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "V",
+					"code": 86,
+					"x": 364,
+					"y": 0,
+					"width": 10,
+					"xoffset": -1,
+					"xadvance": 8
+				},
+				{
+					"char": "v",
+					"code": 118,
+					"x": 375,
+					"y": 0,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 6
+				},
+				{
+					"char": "W",
+					"code": 87,
+					"x": 384,
+					"y": 0,
+					"width": 14,
+					"xoffset": -1,
+					"xadvance": 12
+				},
+				{
+					"char": "w",
+					"code": 119,
+					"x": 399,
+					"y": 0,
+					"width": 12,
+					"xoffset": -1,
+					"xadvance": 10
+				},
+				{
+					"char": "X",
+					"code": 88,
+					"x": 412,
+					"y": 0,
+					"width": 10,
+					"xoffset": -1,
+					"xadvance": 8
+				},
+				{
+					"char": "x",
+					"code": 120,
+					"x": 423,
+					"y": 0,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 6
+				},
+				{
+					"char": "Y",
+					"code": 89,
+					"x": 432,
+					"y": 0,
+					"width": 9,
+					"xoffset": -1,
+					"xadvance": 7
+				},
+				{
+					"char": "y",
+					"code": 121,
+					"x": 442,
+					"y": 0,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 6
+				},
+				{
+					"char": "Z",
+					"code": 90,
+					"x": 451,
+					"y": 0,
+					"width": 10,
+					"xoffset": -1,
+					"xadvance": 8
+				},
+				{
+					"char": "z",
+					"code": 122,
+					"x": 462,
+					"y": 0,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 6
+				},
+				{
+					"char": "0",
+					"code": 48,
+					"x": 0,
+					"y": 18,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "1",
+					"code": 49,
+					"x": 9,
+					"y": 18,
+					"width": 5,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "2",
+					"code": 50,
+					"x": 15,
+					"y": 18,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "3",
+					"code": 51,
+					"x": 23,
+					"y": 18,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "4",
+					"code": 52,
+					"x": 31,
+					"y": 18,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 7
+				},
+				{
+					"char": "5",
+					"code": 53,
+					"x": 40,
+					"y": 18,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "6",
+					"code": 54,
+					"x": 48,
+					"y": 18,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "7",
+					"code": 55,
+					"x": 57,
+					"y": 18,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "8",
+					"code": 56,
+					"x": 65,
+					"y": 18,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "9",
+					"code": 57,
+					"x": 74,
+					"y": 18,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": ".",
+					"code": 46,
+					"x": 82,
+					"y": 18,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 3
+				},
+				{
+					"char": ":",
+					"code": 58,
+					"x": 86,
+					"y": 18,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 3
+				},
+				{
+					"char": ",",
+					"code": 44,
+					"x": 90,
+					"y": 18,
+					"width": 4,
+					"xoffset": -1,
+					"xadvance": 3
+				},
+				{
+					"char": ";",
+					"code": 59,
+					"x": 95,
+					"y": 18,
+					"width": 4,
+					"xoffset": -1,
+					"xadvance": 3
+				},
+				{
+					"char": "'",
+					"code": 39,
+					"x": 100,
+					"y": 18,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 3
+				},
+				{
+					"char": "[",
+					"code": 91,
+					"x": 104,
+					"y": 18,
+					"width": 4,
+					"xoffset": 0,
+					"xadvance": 4
+				},
+				{
+					"char": "]",
+					"code": 93,
+					"x": 109,
+					"y": 18,
+					"width": 4,
+					"xoffset": 0,
+					"xadvance": 4
+				},
+				{
+					"char": "!",
+					"code": 33,
+					"x": 114,
+					"y": 18,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 4
+				},
+				{
+					"char": "@",
+					"code": 64,
+					"x": 118,
+					"y": 18,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "#",
+					"code": 35,
+					"x": 132,
+					"y": 18,
+					"width": 10,
+					"xoffset": -1,
+					"xadvance": 8
+				},
+				{
+					"char": "$",
+					"code": 36,
+					"x": 143,
+					"y": 18,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "%",
+					"code": 37,
+					"x": 151,
+					"y": 18,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 11
+				},
+				{
+					"char": "^",
+					"code": 94,
+					"x": 164,
+					"y": 18,
+					"width": 8,
+					"xoffset": 1,
+					"xadvance": 9
+				},
+				{
+					"char": "&",
+					"code": 38,
+					"x": 173,
+					"y": 18,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 11
+				},
+				{
+					"char": "*",
+					"code": 42,
+					"x": 186,
+					"y": 18,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 6
+				},
+				{
+					"char": "(",
+					"code": 40,
+					"x": 195,
+					"y": 18,
+					"width": 5,
+					"xoffset": 0,
+					"xadvance": 4
+				},
+				{
+					"char": ")",
+					"code": 41,
+					"x": 201,
+					"y": 18,
+					"width": 5,
+					"xoffset": -1,
+					"xadvance": 4
+				},
+				{
+					"char": "-",
+					"code": 45,
+					"x": 207,
+					"y": 18,
+					"width": 5,
+					"xoffset": 0,
+					"xadvance": 5
+				},
+				{
+					"char": "_",
+					"code": 95,
+					"x": 213,
+					"y": 18,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 6
+				},
+				{
+					"char": "/",
+					"code": 47,
+					"x": 222,
+					"y": 18,
+					"width": 7,
+					"xoffset": -1,
+					"xadvance": 5
+				},
+				{
+					"char": "\\",
+					"code": 92,
+					"x": 230,
+					"y": 18,
+					"width": 12,
+					"xoffset": -1,
+					"xadvance": 10
+				},
+				{
+					"char": "=",
+					"code": 61,
+					"x": 243,
+					"y": 18,
+					"width": 8,
+					"xoffset": 1,
+					"xadvance": 9
+				},
+				{
+					"char": "+",
+					"code": 43,
+					"x": 252,
+					"y": 18,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "~",
+					"code": 126,
+					"x": 262,
+					"y": 18,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "<",
+					"code": 60,
+					"x": 272,
+					"y": 18,
+					"width": 8,
+					"xoffset": 1,
+					"xadvance": 9
+				},
+				{
+					"char": ">",
+					"code": 62,
+					"x": 281,
+					"y": 18,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "?",
+					"code": 63,
+					"x": 290,
+					"y": 18,
+					"width": 6,
+					"xoffset": 0,
+					"xadvance": 6
+				},
+				{
+					"char": "\"",
+					"code": 34,
+					"x": 297,
+					"y": 18,
+					"width": 5,
+					"xoffset": 0,
+					"xadvance": 5
+				},
+				{
+					"char": "{",
+					"code": 123,
+					"x": 303,
+					"y": 18,
+					"width": 5,
+					"xoffset": 0,
+					"xadvance": 4
+				},
+				{
+					"char": "}",
+					"code": 125,
+					"x": 309,
+					"y": 18,
+					"width": 5,
+					"xoffset": -1,
+					"xadvance": 4
+				},
+				{
+					"char": "|",
+					"code": 124,
+					"x": 315,
+					"y": 18,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 3
+				},
+				{
+					"char": "Ç",
+					"code": 199,
+					"x": 0,
+					"y": 36,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "ç",
+					"code": 231,
+					"x": 9,
+					"y": 36,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 6
+				},
+				{
+					"char": "đ",
+					"code": 273,
+					"x": 17,
+					"y": 36,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "ı",
+					"code": 305,
+					"x": 27,
+					"y": 36,
+					"width": 3,
+					"xoffset": 0,
+					"xadvance": 3
+				},
+				{
+					"char": "ł",
+					"code": 322,
+					"x": 31,
+					"y": 36,
+					"width": 5,
+					"xoffset": -1,
+					"xadvance": 3
+				},
+				{
+					"char": "Ö",
+					"code": 214,
+					"x": 37,
+					"y": 36,
+					"width": 10,
+					"xoffset": 0,
+					"xadvance": 10
+				},
+				{
+					"char": "ö",
+					"code": 246,
+					"x": 48,
+					"y": 36,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "ø",
+					"code": 248,
+					"x": 57,
+					"y": 36,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "Ü",
+					"code": 220,
+					"x": 66,
+					"y": 36,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "ü",
+					"code": 252,
+					"x": 76,
+					"y": 36,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "¢",
+					"code": 162,
+					"x": 0,
+					"y": 54,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "£",
+					"code": 163,
+					"x": 8,
+					"y": 54,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "¤",
+					"code": 164,
+					"x": 16,
+					"y": 54,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "¥",
+					"code": 165,
+					"x": 24,
+					"y": 54,
+					"width": 9,
+					"xoffset": -1,
+					"xadvance": 7
+				},
+				{
+					"char": "©",
+					"code": 169,
+					"x": 34,
+					"y": 54,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 12
+				},
+				{
+					"char": "«",
+					"code": 171,
+					"x": 47,
+					"y": 54,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "®",
+					"code": 174,
+					"x": 55,
+					"y": 54,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 12
+				},
+				{
+					"char": "»",
+					"code": 187,
+					"x": 68,
+					"y": 54,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "₦",
+					"code": 8358,
+					"x": 0,
+					"y": 72,
+					"width": 11,
+					"xoffset": -1,
+					"xadvance": 9
+				},
+				{
+					"char": "₩",
+					"code": 8361,
+					"x": 12,
+					"y": 72,
+					"width": 12,
+					"xoffset": -1,
+					"xadvance": 10
+				},
+				{
+					"char": "₪",
+					"code": 8362,
+					"x": 25,
+					"y": 72,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "₫",
+					"code": 8363,
+					"x": 34,
+					"y": 72,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "€",
+					"code": 8364,
+					"x": 44,
+					"y": 72,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 7
+				},
+				{
+					"char": "₱",
+					"code": 8369,
+					"x": 53,
+					"y": 72,
+					"width": 10,
+					"xoffset": -1,
+					"xadvance": 8
+				},
+				{
+					"char": "№",
+					"code": 8470,
+					"x": 64,
+					"y": 72,
+					"width": 15,
+					"xoffset": 0,
+					"xadvance": 15
+				},
+				{
+					"char": "™",
+					"code": 8482,
+					"x": 80,
+					"y": 72,
+					"width": 10,
+					"xoffset": 0,
+					"xadvance": 10
+				},
+				{
+					"char": "≠",
+					"code": 8800,
+					"x": 91,
+					"y": 72,
+					"width": 9,
+					"xoffset": 0,
+					"xadvance": 9
+				},
+				{
+					"char": "≤",
+					"code": 8804,
+					"x": 101,
+					"y": 72,
+					"width": 8,
+					"xoffset": 1,
+					"xadvance": 9
+				},
+				{
+					"char": "≥",
+					"code": 8805,
+					"x": 110,
+					"y": 72,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 9
+				}
+			]
+		},
+		"Russian": {
+			"file": "fonts/ko/Arial10 - Russian.png",
+			"noOutline": "fonts/ko/Arial10 No Outline - Russian.png",
+			"width": 54,
+			"height": 16,
+			"rowHeight": 16,
+			"baseline": 12,
+			"glyphs": [
+				{
+					"char": "б",
+					"code": 1073,
+					"x": 0,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "Ё",
+					"code": 1025,
+					"x": 9,
+					"y": 0,
+					"width": 7,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "ё",
+					"code": 1105,
+					"x": 17,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 7
+				},
+				{
+					"char": "р",
+					"code": 1088,
+					"x": 26,
+					"y": 0,
+					"width": 8,
+					"xoffset": 0,
+					"xadvance": 8
+				},
+				{
+					"char": "у",
+					"code": 1091,
+					"x": 35,
+					"y": 0,
+					"width": 8,
+					"xoffset": -1,
+					"xadvance": 6
+				},
+				{
+					"char": "Ъ",
+					"code": 1066,
+					"x": 44,
+					"y": 0,
+					"width": 10,
+					"xoffset": -1,
+					"xadvance": 9
+				}
+			]
+		},
+		"Other": {
+			"file": "fonts/ko/Arial10 - Other.png",
+			"noOutline": "fonts/ko/Arial10 No Outline - Other.png",
+			"width": 512,
+			"height": 440,
+			"rowHeight": 15,
+			"baseline": 12,
+			"glyphs": [
+				{
+					"char": "ᄀ",
+					"code": 4352,
+					"x": 0,
+					"y": 0,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄁ",
+					"code": 4353,
+					"x": 11,
+					"y": 0,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄂ",
+					"code": 4354,
+					"x": 23,
+					"y": 0,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄃ",
+					"code": 4355,
+					"x": 33,
+					"y": 0,
+					"width": 10,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄄ",
+					"code": 4356,
+					"x": 44,
+					"y": 0,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄅ",
+					"code": 4357,
+					"x": 56,
+					"y": 0,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄆ",
+					"code": 4358,
+					"x": 66,
+					"y": 0,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄇ",
+					"code": 4359,
+					"x": 76,
+					"y": 0,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄈ",
+					"code": 4360,
+					"x": 86,
+					"y": 0,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄉ",
+					"code": 4361,
+					"x": 98,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄊ",
+					"code": 4362,
+					"x": 112,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄋ",
+					"code": 4363,
+					"x": 126,
+					"y": 0,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄌ",
+					"code": 4364,
+					"x": 136,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄍ",
+					"code": 4365,
+					"x": 150,
+					"y": 0,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄎ",
+					"code": 4366,
+					"x": 163,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄏ",
+					"code": 4367,
+					"x": 177,
+					"y": 0,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄐ",
+					"code": 4368,
+					"x": 187,
+					"y": 0,
+					"width": 10,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄑ",
+					"code": 4369,
+					"x": 198,
+					"y": 0,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᄒ",
+					"code": 4370,
+					"x": 210,
+					"y": 0,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅡ",
+					"code": 4449,
+					"x": 222,
+					"y": 0,
+					"width": 5,
+					"xoffset": 8,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅢ",
+					"code": 4450,
+					"x": 228,
+					"y": 0,
+					"width": 5,
+					"xoffset": 7,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅣ",
+					"code": 4451,
+					"x": 234,
+					"y": 0,
+					"width": 5,
+					"xoffset": 8,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅤ",
+					"code": 4452,
+					"x": 240,
+					"y": 0,
+					"width": 5,
+					"xoffset": 7,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅥ",
+					"code": 4453,
+					"x": 246,
+					"y": 0,
+					"width": 6,
+					"xoffset": 6,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅦ",
+					"code": 4454,
+					"x": 253,
+					"y": 0,
+					"width": 7,
+					"xoffset": 5,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅧ",
+					"code": 4455,
+					"x": 261,
+					"y": 0,
+					"width": 5,
+					"xoffset": 7,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅨ",
+					"code": 4456,
+					"x": 267,
+					"y": 0,
+					"width": 7,
+					"xoffset": 5,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅩ",
+					"code": 4457,
+					"x": 275,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅪ",
+					"code": 4458,
+					"x": 289,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅫ",
+					"code": 4459,
+					"x": 303,
+					"y": 0,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅬ",
+					"code": 4460,
+					"x": 316,
+					"y": 0,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅭ",
+					"code": 4461,
+					"x": 329,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅮ",
+					"code": 4462,
+					"x": 343,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅯ",
+					"code": 4463,
+					"x": 357,
+					"y": 0,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅰ",
+					"code": 4464,
+					"x": 370,
+					"y": 0,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅱ",
+					"code": 4465,
+					"x": 383,
+					"y": 0,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅲ",
+					"code": 4466,
+					"x": 396,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅳ",
+					"code": 4467,
+					"x": 410,
+					"y": 0,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅴ",
+					"code": 4468,
+					"x": 424,
+					"y": 0,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᅵ",
+					"code": 4469,
+					"x": 437,
+					"y": 0,
+					"width": 3,
+					"xoffset": 9,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆨ",
+					"code": 4520,
+					"x": 441,
+					"y": 0,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆩ",
+					"code": 4521,
+					"x": 452,
+					"y": 0,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆪ",
+					"code": 4522,
+					"x": 464,
+					"y": 0,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆫ",
+					"code": 4523,
+					"x": 477,
+					"y": 0,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆬ",
+					"code": 4524,
+					"x": 487,
+					"y": 0,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆭ",
+					"code": 4525,
+					"x": 499,
+					"y": 0,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆮ",
+					"code": 4526,
+					"x": 0,
+					"y": 17,
+					"width": 10,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆯ",
+					"code": 4527,
+					"x": 11,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆰ",
+					"code": 4528,
+					"x": 21,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆱ",
+					"code": 4529,
+					"x": 33,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆲ",
+					"code": 4530,
+					"x": 45,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆳ",
+					"code": 4531,
+					"x": 57,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆴ",
+					"code": 4532,
+					"x": 70,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆵ",
+					"code": 4533,
+					"x": 82,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆶ",
+					"code": 4534,
+					"x": 95,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆷ",
+					"code": 4535,
+					"x": 107,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆸ",
+					"code": 4536,
+					"x": 117,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆹ",
+					"code": 4537,
+					"x": 127,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆺ",
+					"code": 4538,
+					"x": 140,
+					"y": 17,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆻ",
+					"code": 4539,
+					"x": 154,
+					"y": 17,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆼ",
+					"code": 4540,
+					"x": 168,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆽ",
+					"code": 4541,
+					"x": 178,
+					"y": 17,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆾ",
+					"code": 4542,
+					"x": 192,
+					"y": 17,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ᆿ",
+					"code": 4543,
+					"x": 206,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᇀ",
+					"code": 4544,
+					"x": 216,
+					"y": 17,
+					"width": 10,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ᇁ",
+					"code": 4545,
+					"x": 227,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ᇂ",
+					"code": 4546,
+					"x": 239,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄱ",
+					"code": 12593,
+					"x": 251,
+					"y": 17,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄲ",
+					"code": 12594,
+					"x": 262,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄳ",
+					"code": 12595,
+					"x": 274,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄴ",
+					"code": 12596,
+					"x": 287,
+					"y": 17,
+					"width": 10,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄵ",
+					"code": 12597,
+					"x": 298,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄶ",
+					"code": 12598,
+					"x": 311,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄷ",
+					"code": 12599,
+					"x": 324,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄸ",
+					"code": 12600,
+					"x": 334,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄹ",
+					"code": 12601,
+					"x": 346,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄺ",
+					"code": 12602,
+					"x": 356,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄻ",
+					"code": 12603,
+					"x": 368,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄼ",
+					"code": 12604,
+					"x": 380,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄽ",
+					"code": 12605,
+					"x": 392,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄾ",
+					"code": 12606,
+					"x": 405,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㄿ",
+					"code": 12607,
+					"x": 417,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅀ",
+					"code": 12608,
+					"x": 429,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅁ",
+					"code": 12609,
+					"x": 442,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅂ",
+					"code": 12610,
+					"x": 452,
+					"y": 17,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅃ",
+					"code": 12611,
+					"x": 462,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅄ",
+					"code": 12612,
+					"x": 474,
+					"y": 17,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅅ",
+					"code": 12613,
+					"x": 487,
+					"y": 17,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅆ",
+					"code": 12614,
+					"x": 499,
+					"y": 17,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅇ",
+					"code": 12615,
+					"x": 0,
+					"y": 34,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅈ",
+					"code": 12616,
+					"x": 10,
+					"y": 34,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅉ",
+					"code": 12617,
+					"x": 22,
+					"y": 34,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅊ",
+					"code": 12618,
+					"x": 36,
+					"y": 34,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅋ",
+					"code": 12619,
+					"x": 48,
+					"y": 34,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅌ",
+					"code": 12620,
+					"x": 59,
+					"y": 34,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅍ",
+					"code": 12621,
+					"x": 69,
+					"y": 34,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅎ",
+					"code": 12622,
+					"x": 81,
+					"y": 34,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅏ",
+					"code": 12623,
+					"x": 93,
+					"y": 34,
+					"width": 5,
+					"xoffset": 5,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅐ",
+					"code": 12624,
+					"x": 99,
+					"y": 34,
+					"width": 6,
+					"xoffset": 4,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅑ",
+					"code": 12625,
+					"x": 106,
+					"y": 34,
+					"width": 5,
+					"xoffset": 5,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅒ",
+					"code": 12626,
+					"x": 112,
+					"y": 34,
+					"width": 6,
+					"xoffset": 4,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅓ",
+					"code": 12627,
+					"x": 119,
+					"y": 34,
+					"width": 6,
+					"xoffset": 3,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅔ",
+					"code": 12628,
+					"x": 126,
+					"y": 34,
+					"width": 8,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅕ",
+					"code": 12629,
+					"x": 135,
+					"y": 34,
+					"width": 6,
+					"xoffset": 3,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅖ",
+					"code": 12630,
+					"x": 142,
+					"y": 34,
+					"width": 8,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅗ",
+					"code": 12631,
+					"x": 151,
+					"y": 34,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅘ",
+					"code": 12632,
+					"x": 165,
+					"y": 34,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅙ",
+					"code": 12633,
+					"x": 180,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅚ",
+					"code": 12634,
+					"x": 193,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅛ",
+					"code": 12635,
+					"x": 206,
+					"y": 34,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅜ",
+					"code": 12636,
+					"x": 220,
+					"y": 34,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅝ",
+					"code": 12637,
+					"x": 234,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅞ",
+					"code": 12638,
+					"x": 247,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅟ",
+					"code": 12639,
+					"x": 260,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅠ",
+					"code": 12640,
+					"x": 273,
+					"y": 34,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅡ",
+					"code": 12641,
+					"x": 287,
+					"y": 34,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅢ",
+					"code": 12642,
+					"x": 301,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅣ",
+					"code": 12643,
+					"x": 314,
+					"y": 34,
+					"width": 3,
+					"xoffset": 5,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅥ",
+					"code": 12645,
+					"x": 318,
+					"y": 34,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅦ",
+					"code": 12646,
+					"x": 331,
+					"y": 34,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅧ",
+					"code": 12647,
+					"x": 343,
+					"y": 34,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅨ",
+					"code": 12648,
+					"x": 356,
+					"y": 34,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅩ",
+					"code": 12649,
+					"x": 369,
+					"y": 34,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅪ",
+					"code": 12650,
+					"x": 382,
+					"y": 34,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅫ",
+					"code": 12651,
+					"x": 394,
+					"y": 34,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅬ",
+					"code": 12652,
+					"x": 407,
+					"y": 34,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅭ",
+					"code": 12653,
+					"x": 420,
+					"y": 34,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅮ",
+					"code": 12654,
+					"x": 433,
+					"y": 34,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅯ",
+					"code": 12655,
+					"x": 445,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅰ",
+					"code": 12656,
+					"x": 458,
+					"y": 34,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅱ",
+					"code": 12657,
+					"x": 471,
+					"y": 34,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅲ",
+					"code": 12658,
+					"x": 481,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅳ",
+					"code": 12659,
+					"x": 494,
+					"y": 34,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅴ",
+					"code": 12660,
+					"x": 0,
+					"y": 51,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅵ",
+					"code": 12661,
+					"x": 12,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅶ",
+					"code": 12662,
+					"x": 26,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅷ",
+					"code": 12663,
+					"x": 40,
+					"y": 51,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅸ",
+					"code": 12664,
+					"x": 53,
+					"y": 51,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅹ",
+					"code": 12665,
+					"x": 63,
+					"y": 51,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅺ",
+					"code": 12666,
+					"x": 75,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅻ",
+					"code": 12667,
+					"x": 88,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅼ",
+					"code": 12668,
+					"x": 102,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅽ",
+					"code": 12669,
+					"x": 115,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅾ",
+					"code": 12670,
+					"x": 128,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㅿ",
+					"code": 12671,
+					"x": 142,
+					"y": 51,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆀ",
+					"code": 12672,
+					"x": 153,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆁ",
+					"code": 12673,
+					"x": 167,
+					"y": 51,
+					"width": 8,
+					"xoffset": 3,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆂ",
+					"code": 12674,
+					"x": 176,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆃ",
+					"code": 12675,
+					"x": 190,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆄ",
+					"code": 12676,
+					"x": 204,
+					"y": 51,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆅ",
+					"code": 12677,
+					"x": 216,
+					"y": 51,
+					"width": 15,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆆ",
+					"code": 12678,
+					"x": 232,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆇ",
+					"code": 12679,
+					"x": 245,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆈ",
+					"code": 12680,
+					"x": 259,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆉ",
+					"code": 12681,
+					"x": 272,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆊ",
+					"code": 12682,
+					"x": 285,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆋ",
+					"code": 12683,
+					"x": 298,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆌ",
+					"code": 12684,
+					"x": 311,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆍ",
+					"code": 12685,
+					"x": 324,
+					"y": 51,
+					"width": 5,
+					"xoffset": 4,
+					"xadvance": 13
+				},
+				{
+					"char": "ㆎ",
+					"code": 12686,
+					"x": 330,
+					"y": 51,
+					"width": 8,
+					"xoffset": 3,
+					"xadvance": 13
+				},
+				{
+					"char": "가",
+					"code": 44032,
+					"x": 339,
+					"y": 51,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "각",
+					"code": 44033,
+					"x": 354,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "간",
+					"code": 44036,
+					"x": 368,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "갈",
+					"code": 44040,
+					"x": 382,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "감",
+					"code": 44048,
+					"x": 396,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "갑",
+					"code": 44049,
+					"x": 410,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "값",
+					"code": 44050,
+					"x": 424,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "갔",
+					"code": 44052,
+					"x": 438,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "강",
+					"code": 44053,
+					"x": 452,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "갖",
+					"code": 44054,
+					"x": 466,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "같",
+					"code": 44057,
+					"x": 480,
+					"y": 51,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "개",
+					"code": 44060,
+					"x": 494,
+					"y": 51,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "객",
+					"code": 44061,
+					"x": 0,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "갱",
+					"code": 44081,
+					"x": 13,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "거",
+					"code": 44144,
+					"x": 26,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "걱",
+					"code": 44145,
+					"x": 39,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "건",
+					"code": 44148,
+					"x": 52,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "걸",
+					"code": 44152,
+					"x": 65,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "검",
+					"code": 44160,
+					"x": 78,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "겁",
+					"code": 44161,
+					"x": 91,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "것",
+					"code": 44163,
+					"x": 104,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "게",
+					"code": 44172,
+					"x": 118,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "겠",
+					"code": 44192,
+					"x": 131,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "겨",
+					"code": 44200,
+					"x": 145,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "격",
+					"code": 44201,
+					"x": 158,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "견",
+					"code": 44204,
+					"x": 171,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "결",
+					"code": 44208,
+					"x": 184,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "겸",
+					"code": 44216,
+					"x": 197,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "겼",
+					"code": 44220,
+					"x": 210,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "경",
+					"code": 44221,
+					"x": 224,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "곁",
+					"code": 44225,
+					"x": 237,
+					"y": 68,
+					"width": 11,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "계",
+					"code": 44228,
+					"x": 249,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "고",
+					"code": 44256,
+					"x": 262,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "곡",
+					"code": 44257,
+					"x": 276,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "곤",
+					"code": 44260,
+					"x": 290,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "곧",
+					"code": 44263,
+					"x": 304,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "골",
+					"code": 44264,
+					"x": 318,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "곰",
+					"code": 44272,
+					"x": 332,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "곳",
+					"code": 44275,
+					"x": 346,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "공",
+					"code": 44277,
+					"x": 360,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "과",
+					"code": 44284,
+					"x": 374,
+					"y": 68,
+					"width": 15,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "관",
+					"code": 44288,
+					"x": 390,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "광",
+					"code": 44305,
+					"x": 404,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "괜",
+					"code": 44316,
+					"x": 418,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "괴",
+					"code": 44340,
+					"x": 431,
+					"y": 68,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "교",
+					"code": 44368,
+					"x": 444,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "구",
+					"code": 44396,
+					"x": 458,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "국",
+					"code": 44397,
+					"x": 472,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "군",
+					"code": 44400,
+					"x": 486,
+					"y": 68,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "굴",
+					"code": 44404,
+					"x": 0,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "궁",
+					"code": 44417,
+					"x": 14,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "권",
+					"code": 44428,
+					"x": 28,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "궤",
+					"code": 44452,
+					"x": 41,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "귀",
+					"code": 44480,
+					"x": 54,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "규",
+					"code": 44508,
+					"x": 67,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "균",
+					"code": 44512,
+					"x": 81,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "그",
+					"code": 44536,
+					"x": 95,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "극",
+					"code": 44537,
+					"x": 109,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "근",
+					"code": 44540,
+					"x": 123,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "글",
+					"code": 44544,
+					"x": 137,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "금",
+					"code": 44552,
+					"x": 151,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "급",
+					"code": 44553,
+					"x": 165,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "기",
+					"code": 44592,
+					"x": 179,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "긴",
+					"code": 44596,
+					"x": 192,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "길",
+					"code": 44600,
+					"x": 205,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "김",
+					"code": 44608,
+					"x": 218,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "깁",
+					"code": 44609,
+					"x": 231,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "깃",
+					"code": 44611,
+					"x": 244,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "까",
+					"code": 44620,
+					"x": 258,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "깐",
+					"code": 44624,
+					"x": 272,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "깜",
+					"code": 44636,
+					"x": 286,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "깝",
+					"code": 44637,
+					"x": 300,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "깨",
+					"code": 44648,
+					"x": 314,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "꺼",
+					"code": 44732,
+					"x": 327,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "껍",
+					"code": 44749,
+					"x": 340,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "껏",
+					"code": 44751,
+					"x": 353,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "껐",
+					"code": 44752,
+					"x": 367,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "께",
+					"code": 44760,
+					"x": 381,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "꽁",
+					"code": 44865,
+					"x": 394,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "꽃",
+					"code": 44867,
+					"x": 408,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "꾸",
+					"code": 44984,
+					"x": 422,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "꾼",
+					"code": 44988,
+					"x": 436,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "꿀",
+					"code": 44992,
+					"x": 450,
+					"y": 85,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "꿔",
+					"code": 45012,
+					"x": 464,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "꿰",
+					"code": 45040,
+					"x": 477,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뀌",
+					"code": 45068,
+					"x": 490,
+					"y": 85,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뀐",
+					"code": 45072,
+					"x": 0,
+					"y": 102,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "끄",
+					"code": 45124,
+					"x": 13,
+					"y": 102,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "끊",
+					"code": 45130,
+					"x": 27,
+					"y": 102,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "끌",
+					"code": 45132,
+					"x": 41,
+					"y": 102,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "끔",
+					"code": 45140,
+					"x": 55,
+					"y": 102,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "끝",
+					"code": 45149,
+					"x": 69,
+					"y": 102,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "끼",
+					"code": 45180,
+					"x": 83,
+					"y": 102,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "낍",
+					"code": 45197,
+					"x": 96,
+					"y": 102,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "나",
+					"code": 45208,
+					"x": 109,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "난",
+					"code": 45212,
+					"x": 122,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "날",
+					"code": 45216,
+					"x": 135,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "남",
+					"code": 45224,
+					"x": 148,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "납",
+					"code": 45225,
+					"x": 161,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "낫",
+					"code": 45227,
+					"x": 174,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "낭",
+					"code": 45229,
+					"x": 187,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "낮",
+					"code": 45230,
+					"x": 200,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "내",
+					"code": 45236,
+					"x": 213,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "낸",
+					"code": 45240,
+					"x": 225,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "낼",
+					"code": 45244,
+					"x": 237,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "냄",
+					"code": 45252,
+					"x": 249,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "냅",
+					"code": 45253,
+					"x": 261,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "냈",
+					"code": 45256,
+					"x": 273,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "냐",
+					"code": 45264,
+					"x": 286,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "냥",
+					"code": 45285,
+					"x": 299,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "너",
+					"code": 45320,
+					"x": 312,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넉",
+					"code": 45321,
+					"x": 324,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넌",
+					"code": 45324,
+					"x": 336,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "널",
+					"code": 45328,
+					"x": 348,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넓",
+					"code": 45331,
+					"x": 360,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넘",
+					"code": 45336,
+					"x": 372,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넛",
+					"code": 45339,
+					"x": 384,
+					"y": 102,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넣",
+					"code": 45347,
+					"x": 397,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "네",
+					"code": 45348,
+					"x": 409,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넥",
+					"code": 45349,
+					"x": 421,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넬",
+					"code": 45356,
+					"x": 433,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "넵",
+					"code": 45365,
+					"x": 445,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "녀",
+					"code": 45376,
+					"x": 457,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "녁",
+					"code": 45377,
+					"x": 469,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "년",
+					"code": 45380,
+					"x": 481,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "녕",
+					"code": 45397,
+					"x": 493,
+					"y": 102,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "노",
+					"code": 45432,
+					"x": 0,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "녹",
+					"code": 45433,
+					"x": 14,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "놀",
+					"code": 45440,
+					"x": 28,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "놈",
+					"code": 45448,
+					"x": 42,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "농",
+					"code": 45453,
+					"x": 56,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "높",
+					"code": 45458,
+					"x": 70,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "놓",
+					"code": 45459,
+					"x": 84,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "놔",
+					"code": 45460,
+					"x": 98,
+					"y": 119,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "놨",
+					"code": 45480,
+					"x": 113,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "누",
+					"code": 45572,
+					"x": 127,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "눈",
+					"code": 45576,
+					"x": 141,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "눌",
+					"code": 45580,
+					"x": 155,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뉩",
+					"code": 45673,
+					"x": 169,
+					"y": 119,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뉴",
+					"code": 45684,
+					"x": 182,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "느",
+					"code": 45712,
+					"x": 196,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "늑",
+					"code": 45713,
+					"x": 210,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "는",
+					"code": 45716,
+					"x": 224,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "늘",
+					"code": 45720,
+					"x": 238,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "능",
+					"code": 45733,
+					"x": 252,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "늦",
+					"code": 45734,
+					"x": 266,
+					"y": 119,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "니",
+					"code": 45768,
+					"x": 280,
+					"y": 119,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "닉",
+					"code": 45769,
+					"x": 292,
+					"y": 119,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "닌",
+					"code": 45772,
+					"x": 304,
+					"y": 119,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "닐",
+					"code": 45776,
+					"x": 316,
+					"y": 119,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "님",
+					"code": 45784,
+					"x": 328,
+					"y": 119,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "닛",
+					"code": 45787,
+					"x": 340,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "다",
+					"code": 45796,
+					"x": 353,
+					"y": 119,
+					"width": 13,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "닥",
+					"code": 45797,
+					"x": 367,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "단",
+					"code": 45800,
+					"x": 380,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "닫",
+					"code": 45803,
+					"x": 393,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "달",
+					"code": 45804,
+					"x": 406,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "닮",
+					"code": 45806,
+					"x": 419,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "답",
+					"code": 45813,
+					"x": 432,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "당",
+					"code": 45817,
+					"x": 445,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "닻",
+					"code": 45819,
+					"x": 458,
+					"y": 119,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "대",
+					"code": 45824,
+					"x": 471,
+					"y": 119,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "더",
+					"code": 45908,
+					"x": 483,
+					"y": 119,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "덕",
+					"code": 45909,
+					"x": 495,
+					"y": 119,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "던",
+					"code": 45912,
+					"x": 0,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "덤",
+					"code": 45924,
+					"x": 12,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "덩",
+					"code": 45929,
+					"x": 24,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "데",
+					"code": 45936,
+					"x": 36,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "덱",
+					"code": 45937,
+					"x": 48,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "도",
+					"code": 46020,
+					"x": 60,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "독",
+					"code": 46021,
+					"x": 74,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "돌",
+					"code": 46028,
+					"x": 88,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "동",
+					"code": 46041,
+					"x": 102,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "돼",
+					"code": 46076,
+					"x": 116,
+					"y": 136,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "됐",
+					"code": 46096,
+					"x": 129,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "되",
+					"code": 46104,
+					"x": 143,
+					"y": 136,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "된",
+					"code": 46108,
+					"x": 156,
+					"y": 136,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "될",
+					"code": 46112,
+					"x": 169,
+					"y": 136,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "됨",
+					"code": 46120,
+					"x": 182,
+					"y": 136,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "됩",
+					"code": 46121,
+					"x": 195,
+					"y": 136,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "두",
+					"code": 46160,
+					"x": 208,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "둑",
+					"code": 46161,
+					"x": 222,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "둘",
+					"code": 46168,
+					"x": 236,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "둥",
+					"code": 46181,
+					"x": 250,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "둬",
+					"code": 46188,
+					"x": 264,
+					"y": 136,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뒤",
+					"code": 46244,
+					"x": 277,
+					"y": 136,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "듀",
+					"code": 46272,
+					"x": 290,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "드",
+					"code": 46300,
+					"x": 304,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "득",
+					"code": 46301,
+					"x": 318,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "든",
+					"code": 46304,
+					"x": 332,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "듣",
+					"code": 46307,
+					"x": 346,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "들",
+					"code": 46308,
+					"x": 360,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "듬",
+					"code": 46316,
+					"x": 374,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "듭",
+					"code": 46317,
+					"x": 388,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "듯",
+					"code": 46319,
+					"x": 402,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "등",
+					"code": 46321,
+					"x": 416,
+					"y": 136,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "디",
+					"code": 46356,
+					"x": 430,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "딜",
+					"code": 46364,
+					"x": 442,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "딧",
+					"code": 46375,
+					"x": 454,
+					"y": 136,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "딩",
+					"code": 46377,
+					"x": 467,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "딪",
+					"code": 46378,
+					"x": 479,
+					"y": 136,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "따",
+					"code": 46384,
+					"x": 491,
+					"y": 136,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "딱",
+					"code": 46385,
+					"x": 0,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "땅",
+					"code": 46405,
+					"x": 14,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "때",
+					"code": 46412,
+					"x": 28,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "땠",
+					"code": 46432,
+					"x": 40,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "땡",
+					"code": 46433,
+					"x": 54,
+					"y": 153,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "떠",
+					"code": 46496,
+					"x": 67,
+					"y": 153,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "떤",
+					"code": 46500,
+					"x": 80,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "떨",
+					"code": 46504,
+					"x": 92,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "떻",
+					"code": 46523,
+					"x": 104,
+					"y": 153,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "떼",
+					"code": 46524,
+					"x": 115,
+					"y": 153,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "또",
+					"code": 46608,
+					"x": 128,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "똑",
+					"code": 46609,
+					"x": 142,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뚜",
+					"code": 46748,
+					"x": 156,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뚫",
+					"code": 46763,
+					"x": 170,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뚱",
+					"code": 46769,
+					"x": 184,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뛰",
+					"code": 46832,
+					"x": 198,
+					"y": 153,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뛴",
+					"code": 46836,
+					"x": 211,
+					"y": 153,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뛸",
+					"code": 46840,
+					"x": 224,
+					"y": 153,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뜨",
+					"code": 46888,
+					"x": 237,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뜩",
+					"code": 46889,
+					"x": 251,
+					"y": 153,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "라",
+					"code": 46972,
+					"x": 265,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "락",
+					"code": 46973,
+					"x": 278,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "란",
+					"code": 46976,
+					"x": 291,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "랄",
+					"code": 46980,
+					"x": 304,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "람",
+					"code": 46988,
+					"x": 317,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "랍",
+					"code": 46989,
+					"x": 330,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "랐",
+					"code": 46992,
+					"x": 343,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "랑",
+					"code": 46993,
+					"x": 356,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "래",
+					"code": 47000,
+					"x": 369,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "랜",
+					"code": 47004,
+					"x": 381,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "램",
+					"code": 47016,
+					"x": 393,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "랬",
+					"code": 47020,
+					"x": 405,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "랭",
+					"code": 47021,
+					"x": 418,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "략",
+					"code": 47029,
+					"x": 430,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "량",
+					"code": 47049,
+					"x": 443,
+					"y": 153,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "러",
+					"code": 47084,
+					"x": 456,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "럭",
+					"code": 47085,
+					"x": 468,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "런",
+					"code": 47088,
+					"x": 480,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "럴",
+					"code": 47092,
+					"x": 492,
+					"y": 153,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "럼",
+					"code": 47100,
+					"x": 0,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "럽",
+					"code": 47101,
+					"x": 12,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "럿",
+					"code": 47103,
+					"x": 24,
+					"y": 170,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "렁",
+					"code": 47105,
+					"x": 37,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "렇",
+					"code": 47111,
+					"x": 49,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "레",
+					"code": 47112,
+					"x": 61,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "렉",
+					"code": 47113,
+					"x": 73,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "렌",
+					"code": 47116,
+					"x": 85,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "렛",
+					"code": 47131,
+					"x": 97,
+					"y": 170,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "려",
+					"code": 47140,
+					"x": 110,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "력",
+					"code": 47141,
+					"x": 122,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "련",
+					"code": 47144,
+					"x": 134,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "렵",
+					"code": 47157,
+					"x": 146,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "렸",
+					"code": 47160,
+					"x": 158,
+					"y": 170,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "령",
+					"code": 47161,
+					"x": 171,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "로",
+					"code": 47196,
+					"x": 183,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "록",
+					"code": 47197,
+					"x": 197,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "론",
+					"code": 47200,
+					"x": 211,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "롤",
+					"code": 47204,
+					"x": 225,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "롭",
+					"code": 47213,
+					"x": 239,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "롯",
+					"code": 47215,
+					"x": 253,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뢰",
+					"code": 47280,
+					"x": 267,
+					"y": 170,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "료",
+					"code": 47308,
+					"x": 280,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "룡",
+					"code": 47329,
+					"x": 294,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "루",
+					"code": 47336,
+					"x": 308,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "룰",
+					"code": 47344,
+					"x": 322,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "룹",
+					"code": 47353,
+					"x": 336,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "류",
+					"code": 47448,
+					"x": 350,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "륙",
+					"code": 47449,
+					"x": 364,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "률",
+					"code": 47456,
+					"x": 378,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "르",
+					"code": 47476,
+					"x": 392,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "른",
+					"code": 47480,
+					"x": 406,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "를",
+					"code": 47484,
+					"x": 420,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "름",
+					"code": 47492,
+					"x": 434,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "릅",
+					"code": 47493,
+					"x": 448,
+					"y": 170,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "리",
+					"code": 47532,
+					"x": 462,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "릭",
+					"code": 47533,
+					"x": 474,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "린",
+					"code": 47536,
+					"x": 486,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "릴",
+					"code": 47540,
+					"x": 498,
+					"y": 170,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "림",
+					"code": 47548,
+					"x": 0,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "립",
+					"code": 47549,
+					"x": 12,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "릿",
+					"code": 47551,
+					"x": 24,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "링",
+					"code": 47553,
+					"x": 37,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "마",
+					"code": 47560,
+					"x": 49,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "막",
+					"code": 47561,
+					"x": 62,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "만",
+					"code": 47564,
+					"x": 75,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "많",
+					"code": 47566,
+					"x": 88,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "말",
+					"code": 47568,
+					"x": 101,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "맙",
+					"code": 47577,
+					"x": 114,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "맛",
+					"code": 47579,
+					"x": 127,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "망",
+					"code": 47581,
+					"x": 140,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "맞",
+					"code": 47582,
+					"x": 153,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "매",
+					"code": 47588,
+					"x": 166,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "맥",
+					"code": 47589,
+					"x": 178,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "맨",
+					"code": 47592,
+					"x": 190,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "맵",
+					"code": 47605,
+					"x": 202,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "맹",
+					"code": 47609,
+					"x": 214,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "머",
+					"code": 47672,
+					"x": 226,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "먹",
+					"code": 47673,
+					"x": 238,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "먼",
+					"code": 47676,
+					"x": 250,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "멀",
+					"code": 47680,
+					"x": 262,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "멈",
+					"code": 47688,
+					"x": 274,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "멋",
+					"code": 47691,
+					"x": 286,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "멍",
+					"code": 47693,
+					"x": 299,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "메",
+					"code": 47700,
+					"x": 311,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "멧",
+					"code": 47719,
+					"x": 323,
+					"y": 187,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "며",
+					"code": 47728,
+					"x": 336,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "면",
+					"code": 47732,
+					"x": 348,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "명",
+					"code": 47749,
+					"x": 360,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "몇",
+					"code": 47751,
+					"x": 372,
+					"y": 187,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "모",
+					"code": 47784,
+					"x": 384,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "목",
+					"code": 47785,
+					"x": 398,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "몬",
+					"code": 47788,
+					"x": 412,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "몰",
+					"code": 47792,
+					"x": 426,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "몸",
+					"code": 47800,
+					"x": 440,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "못",
+					"code": 47803,
+					"x": 454,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "몽",
+					"code": 47805,
+					"x": 468,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "묘",
+					"code": 47896,
+					"x": 482,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "무",
+					"code": 47924,
+					"x": 496,
+					"y": 187,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "묶",
+					"code": 47926,
+					"x": 0,
+					"y": 204,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "문",
+					"code": 47928,
+					"x": 14,
+					"y": 204,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "물",
+					"code": 47932,
+					"x": 28,
+					"y": 204,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뭉",
+					"code": 47945,
+					"x": 42,
+					"y": 204,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뭐",
+					"code": 47952,
+					"x": 56,
+					"y": 204,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뭔",
+					"code": 47956,
+					"x": 69,
+					"y": 204,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뭘",
+					"code": 47960,
+					"x": 82,
+					"y": 204,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뮬",
+					"code": 48044,
+					"x": 95,
+					"y": 204,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "므",
+					"code": 48064,
+					"x": 109,
+					"y": 204,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "미",
+					"code": 48120,
+					"x": 123,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "민",
+					"code": 48124,
+					"x": 135,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "믿",
+					"code": 48127,
+					"x": 147,
+					"y": 204,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "밀",
+					"code": 48128,
+					"x": 158,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "및",
+					"code": 48143,
+					"x": 170,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "바",
+					"code": 48148,
+					"x": 182,
+					"y": 204,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "박",
+					"code": 48149,
+					"x": 195,
+					"y": 204,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "밖",
+					"code": 48150,
+					"x": 208,
+					"y": 204,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "반",
+					"code": 48152,
+					"x": 221,
+					"y": 204,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "받",
+					"code": 48155,
+					"x": 234,
+					"y": 204,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "발",
+					"code": 48156,
+					"x": 247,
+					"y": 204,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "밝",
+					"code": 48157,
+					"x": 260,
+					"y": 204,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "방",
+					"code": 48169,
+					"x": 273,
+					"y": 204,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "배",
+					"code": 48176,
+					"x": 286,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "백",
+					"code": 48177,
+					"x": 298,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "밴",
+					"code": 48180,
+					"x": 310,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "밸",
+					"code": 48184,
+					"x": 322,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "뱅",
+					"code": 48197,
+					"x": 334,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "뱉",
+					"code": 48201,
+					"x": 346,
+					"y": 204,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "버",
+					"code": 48260,
+					"x": 357,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "번",
+					"code": 48264,
+					"x": 369,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "벌",
+					"code": 48268,
+					"x": 381,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "범",
+					"code": 48276,
+					"x": 393,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "법",
+					"code": 48277,
+					"x": 405,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "베",
+					"code": 48288,
+					"x": 417,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "벤",
+					"code": 48292,
+					"x": 429,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "벨",
+					"code": 48296,
+					"x": 441,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "벼",
+					"code": 48316,
+					"x": 453,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "벽",
+					"code": 48317,
+					"x": 465,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "변",
+					"code": 48320,
+					"x": 477,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "별",
+					"code": 48324,
+					"x": 489,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "병",
+					"code": 48337,
+					"x": 501,
+					"y": 204,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "보",
+					"code": 48372,
+					"x": 0,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "복",
+					"code": 48373,
+					"x": 14,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "본",
+					"code": 48376,
+					"x": 28,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "볼",
+					"code": 48380,
+					"x": 42,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "봄",
+					"code": 48388,
+					"x": 56,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "봐",
+					"code": 48400,
+					"x": 70,
+					"y": 221,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "봤",
+					"code": 48420,
+					"x": 85,
+					"y": 221,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "부",
+					"code": 48512,
+					"x": 100,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "북",
+					"code": 48513,
+					"x": 114,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "분",
+					"code": 48516,
+					"x": 128,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "불",
+					"code": 48520,
+					"x": 142,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "붉",
+					"code": 48521,
+					"x": 156,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "붕",
+					"code": 48533,
+					"x": 170,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "붙",
+					"code": 48537,
+					"x": 184,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "브",
+					"code": 48652,
+					"x": 198,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "블",
+					"code": 48660,
+					"x": 212,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "비",
+					"code": 48708,
+					"x": 226,
+					"y": 221,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "빅",
+					"code": 48709,
+					"x": 238,
+					"y": 221,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "빈",
+					"code": 48712,
+					"x": 250,
+					"y": 221,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "빌",
+					"code": 48716,
+					"x": 262,
+					"y": 221,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "빗",
+					"code": 48727,
+					"x": 274,
+					"y": 221,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "빛",
+					"code": 48731,
+					"x": 287,
+					"y": 221,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "빠",
+					"code": 48736,
+					"x": 299,
+					"y": 221,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "빡",
+					"code": 48737,
+					"x": 314,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "빨",
+					"code": 48744,
+					"x": 328,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "빵",
+					"code": 48757,
+					"x": 342,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "빼",
+					"code": 48764,
+					"x": 356,
+					"y": 221,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뺄",
+					"code": 48772,
+					"x": 369,
+					"y": 221,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뻔",
+					"code": 48852,
+					"x": 382,
+					"y": 221,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "뼈",
+					"code": 48904,
+					"x": 394,
+					"y": 221,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뾰",
+					"code": 49072,
+					"x": 407,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뿍",
+					"code": 49101,
+					"x": 421,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뿐",
+					"code": 49104,
+					"x": 435,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "뿔",
+					"code": 49108,
+					"x": 449,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쁘",
+					"code": 49240,
+					"x": 463,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쁜",
+					"code": 49244,
+					"x": 477,
+					"y": 221,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "삐",
+					"code": 49296,
+					"x": 491,
+					"y": 221,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "사",
+					"code": 49324,
+					"x": 0,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "삭",
+					"code": 49325,
+					"x": 14,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "산",
+					"code": 49328,
+					"x": 28,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "살",
+					"code": 49332,
+					"x": 42,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "삽",
+					"code": 49341,
+					"x": 56,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "상",
+					"code": 49345,
+					"x": 70,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "새",
+					"code": 49352,
+					"x": 84,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "색",
+					"code": 49353,
+					"x": 97,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "샘",
+					"code": 49368,
+					"x": 110,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "생",
+					"code": 49373,
+					"x": 123,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "샬",
+					"code": 49388,
+					"x": 136,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "샷",
+					"code": 49399,
+					"x": 150,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "서",
+					"code": 49436,
+					"x": 164,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "석",
+					"code": 49437,
+					"x": 177,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "선",
+					"code": 49440,
+					"x": 190,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "설",
+					"code": 49444,
+					"x": 203,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "섬",
+					"code": 49452,
+					"x": 216,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "섭",
+					"code": 49453,
+					"x": 229,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "섰",
+					"code": 49456,
+					"x": 242,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "성",
+					"code": 49457,
+					"x": 256,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "세",
+					"code": 49464,
+					"x": 269,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "섹",
+					"code": 49465,
+					"x": 282,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "센",
+					"code": 49468,
+					"x": 295,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "셋",
+					"code": 49483,
+					"x": 308,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "셔",
+					"code": 49492,
+					"x": 322,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "션",
+					"code": 49496,
+					"x": 335,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "셜",
+					"code": 49500,
+					"x": 348,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "셨",
+					"code": 49512,
+					"x": 361,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "셰",
+					"code": 49520,
+					"x": 375,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "소",
+					"code": 49548,
+					"x": 388,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "속",
+					"code": 49549,
+					"x": 402,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "손",
+					"code": 49552,
+					"x": 416,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "솔",
+					"code": 49556,
+					"x": 430,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "솟",
+					"code": 49567,
+					"x": 444,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "송",
+					"code": 49569,
+					"x": 458,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쇠",
+					"code": 49632,
+					"x": 472,
+					"y": 238,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쇼",
+					"code": 49660,
+					"x": 485,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "수",
+					"code": 49688,
+					"x": 499,
+					"y": 238,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "숙",
+					"code": 49689,
+					"x": 0,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "순",
+					"code": 49692,
+					"x": 14,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "숟",
+					"code": 49695,
+					"x": 28,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "술",
+					"code": 49696,
+					"x": 42,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "숨",
+					"code": 49704,
+					"x": 56,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "숭",
+					"code": 49709,
+					"x": 70,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "숯",
+					"code": 49711,
+					"x": 84,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "숲",
+					"code": 49714,
+					"x": 98,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "숴",
+					"code": 49716,
+					"x": 112,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쉬",
+					"code": 49772,
+					"x": 125,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쉽",
+					"code": 49789,
+					"x": 138,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "슈",
+					"code": 49800,
+					"x": 151,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "스",
+					"code": 49828,
+					"x": 165,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "슨",
+					"code": 49832,
+					"x": 179,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "슬",
+					"code": 49836,
+					"x": 193,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "습",
+					"code": 49845,
+					"x": 207,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "승",
+					"code": 49849,
+					"x": 221,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "시",
+					"code": 49884,
+					"x": 235,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "식",
+					"code": 49885,
+					"x": 248,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "신",
+					"code": 49888,
+					"x": 261,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "실",
+					"code": 49892,
+					"x": 274,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "싫",
+					"code": 49899,
+					"x": 287,
+					"y": 255,
+					"width": 11,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "심",
+					"code": 49900,
+					"x": 299,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "십",
+					"code": 49901,
+					"x": 312,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "싶",
+					"code": 49910,
+					"x": 325,
+					"y": 255,
+					"width": 11,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "싸",
+					"code": 49912,
+					"x": 337,
+					"y": 255,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쌀",
+					"code": 49920,
+					"x": 352,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쌍",
+					"code": 49933,
+					"x": 366,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쌓",
+					"code": 49939,
+					"x": 380,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "써",
+					"code": 50024,
+					"x": 394,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쏘",
+					"code": 50136,
+					"x": 407,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쏟",
+					"code": 50143,
+					"x": 421,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쏴",
+					"code": 50164,
+					"x": 435,
+					"y": 255,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쓰",
+					"code": 50416,
+					"x": 450,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쓸",
+					"code": 50424,
+					"x": 464,
+					"y": 255,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "씨",
+					"code": 50472,
+					"x": 478,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "씩",
+					"code": 50473,
+					"x": 491,
+					"y": 255,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "씬",
+					"code": 50476,
+					"x": 0,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "아",
+					"code": 50500,
+					"x": 13,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "악",
+					"code": 50501,
+					"x": 27,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "안",
+					"code": 50504,
+					"x": 41,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "앉",
+					"code": 50505,
+					"x": 55,
+					"y": 272,
+					"width": 11,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "않",
+					"code": 50506,
+					"x": 67,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "알",
+					"code": 50508,
+					"x": 81,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "암",
+					"code": 50516,
+					"x": 95,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "압",
+					"code": 50517,
+					"x": 109,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "았",
+					"code": 50520,
+					"x": 123,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "앞",
+					"code": 50526,
+					"x": 137,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "애",
+					"code": 50528,
+					"x": 151,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "액",
+					"code": 50529,
+					"x": 164,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "앱",
+					"code": 50545,
+					"x": 177,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "야",
+					"code": 50556,
+					"x": 190,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "약",
+					"code": 50557,
+					"x": 204,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "양",
+					"code": 50577,
+					"x": 218,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "얘",
+					"code": 50584,
+					"x": 232,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "어",
+					"code": 50612,
+					"x": 245,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "억",
+					"code": 50613,
+					"x": 258,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "언",
+					"code": 50616,
+					"x": 270,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "얻",
+					"code": 50619,
+					"x": 282,
+					"y": 272,
+					"width": 10,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "얼",
+					"code": 50620,
+					"x": 293,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "엄",
+					"code": 50628,
+					"x": 305,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "업",
+					"code": 50629,
+					"x": 317,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "없",
+					"code": 50630,
+					"x": 329,
+					"y": 272,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "엇",
+					"code": 50631,
+					"x": 342,
+					"y": 272,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "었",
+					"code": 50632,
+					"x": 355,
+					"y": 272,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "엉",
+					"code": 50633,
+					"x": 368,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "에",
+					"code": 50640,
+					"x": 380,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "엔",
+					"code": 50644,
+					"x": 393,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "엘",
+					"code": 50648,
+					"x": 406,
+					"y": 272,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "엣",
+					"code": 50659,
+					"x": 419,
+					"y": 272,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "여",
+					"code": 50668,
+					"x": 433,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "역",
+					"code": 50669,
+					"x": 445,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "연",
+					"code": 50672,
+					"x": 457,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "열",
+					"code": 50676,
+					"x": 469,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "염",
+					"code": 50684,
+					"x": 481,
+					"y": 272,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "였",
+					"code": 50688,
+					"x": 493,
+					"y": 272,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "영",
+					"code": 50689,
+					"x": 0,
+					"y": 289,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "예",
+					"code": 50696,
+					"x": 12,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "옛",
+					"code": 50715,
+					"x": 25,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "오",
+					"code": 50724,
+					"x": 39,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "옥",
+					"code": 50725,
+					"x": 53,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "온",
+					"code": 50728,
+					"x": 67,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "올",
+					"code": 50732,
+					"x": 81,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "옮",
+					"code": 50734,
+					"x": 95,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "옵",
+					"code": 50741,
+					"x": 109,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "와",
+					"code": 50752,
+					"x": 123,
+					"y": 289,
+					"width": 15,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "완",
+					"code": 50756,
+					"x": 139,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "왔",
+					"code": 50772,
+					"x": 153,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "왕",
+					"code": 50773,
+					"x": 167,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "왜",
+					"code": 50780,
+					"x": 181,
+					"y": 289,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "왠",
+					"code": 50784,
+					"x": 195,
+					"y": 289,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "외",
+					"code": 50808,
+					"x": 209,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "왼",
+					"code": 50812,
+					"x": 222,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "요",
+					"code": 50836,
+					"x": 235,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "용",
+					"code": 50857,
+					"x": 249,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "우",
+					"code": 50864,
+					"x": 263,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "욱",
+					"code": 50865,
+					"x": 277,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "운",
+					"code": 50868,
+					"x": 291,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "울",
+					"code": 50872,
+					"x": 305,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "움",
+					"code": 50880,
+					"x": 319,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "웃",
+					"code": 50883,
+					"x": 333,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "워",
+					"code": 50892,
+					"x": 347,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "원",
+					"code": 50896,
+					"x": 360,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "월",
+					"code": 50900,
+					"x": 373,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "웠",
+					"code": 50912,
+					"x": 386,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "웨",
+					"code": 50920,
+					"x": 400,
+					"y": 289,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "위",
+					"code": 50948,
+					"x": 414,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "윈",
+					"code": 50952,
+					"x": 427,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "윌",
+					"code": 50956,
+					"x": 440,
+					"y": 289,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "유",
+					"code": 50976,
+					"x": 453,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "육",
+					"code": 50977,
+					"x": 467,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "율",
+					"code": 50984,
+					"x": 481,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "으",
+					"code": 51004,
+					"x": 495,
+					"y": 289,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "윽",
+					"code": 51005,
+					"x": 0,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "은",
+					"code": 51008,
+					"x": 14,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "을",
+					"code": 51012,
+					"x": 28,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "음",
+					"code": 51020,
+					"x": 42,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "응",
+					"code": 51025,
+					"x": 56,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "의",
+					"code": 51032,
+					"x": 70,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "이",
+					"code": 51060,
+					"x": 83,
+					"y": 306,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "인",
+					"code": 51064,
+					"x": 95,
+					"y": 306,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "일",
+					"code": 51068,
+					"x": 107,
+					"y": 306,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "잃",
+					"code": 51075,
+					"x": 119,
+					"y": 306,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "임",
+					"code": 51076,
+					"x": 132,
+					"y": 306,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "입",
+					"code": 51077,
+					"x": 144,
+					"y": 306,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "있",
+					"code": 51080,
+					"x": 156,
+					"y": 306,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "잊",
+					"code": 51082,
+					"x": 169,
+					"y": 306,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "자",
+					"code": 51088,
+					"x": 181,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "작",
+					"code": 51089,
+					"x": 195,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "잔",
+					"code": 51092,
+					"x": 209,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "잖",
+					"code": 51094,
+					"x": 223,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "잘",
+					"code": 51096,
+					"x": 237,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "잠",
+					"code": 51104,
+					"x": 251,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "잡",
+					"code": 51105,
+					"x": 265,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "장",
+					"code": 51109,
+					"x": 279,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "재",
+					"code": 51116,
+					"x": 293,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "잭",
+					"code": 51117,
+					"x": 306,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "잿",
+					"code": 51135,
+					"x": 319,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쟁",
+					"code": 51137,
+					"x": 333,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쟤",
+					"code": 51172,
+					"x": 346,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "저",
+					"code": 51200,
+					"x": 359,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "적",
+					"code": 51201,
+					"x": 372,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "전",
+					"code": 51204,
+					"x": 385,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "절",
+					"code": 51208,
+					"x": 398,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "점",
+					"code": 51216,
+					"x": 411,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "접",
+					"code": 51217,
+					"x": 424,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "정",
+					"code": 51221,
+					"x": 437,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "제",
+					"code": 51228,
+					"x": 450,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "젠",
+					"code": 51232,
+					"x": 463,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "져",
+					"code": 51256,
+					"x": 476,
+					"y": 306,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "졌",
+					"code": 51276,
+					"x": 489,
+					"y": 306,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "조",
+					"code": 51312,
+					"x": 0,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "족",
+					"code": 51313,
+					"x": 14,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "존",
+					"code": 51316,
+					"x": 28,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "좀",
+					"code": 51328,
+					"x": 42,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "좁",
+					"code": 51329,
+					"x": 56,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "종",
+					"code": 51333,
+					"x": 70,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "좋",
+					"code": 51339,
+					"x": 84,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "좌",
+					"code": 51340,
+					"x": 98,
+					"y": 323,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "죄",
+					"code": 51396,
+					"x": 113,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "죠",
+					"code": 51424,
+					"x": 126,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "주",
+					"code": 51452,
+					"x": 140,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "죽",
+					"code": 51453,
+					"x": 154,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "준",
+					"code": 51456,
+					"x": 168,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "줄",
+					"code": 51460,
+					"x": 182,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "줌",
+					"code": 51468,
+					"x": 196,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "줍",
+					"code": 51469,
+					"x": 210,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "중",
+					"code": 51473,
+					"x": 224,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "줘",
+					"code": 51480,
+					"x": 238,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "줬",
+					"code": 51500,
+					"x": 251,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "즈",
+					"code": 51592,
+					"x": 265,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "즉",
+					"code": 51593,
+					"x": 279,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "즌",
+					"code": 51596,
+					"x": 293,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "즐",
+					"code": 51600,
+					"x": 307,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "증",
+					"code": 51613,
+					"x": 321,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "지",
+					"code": 51648,
+					"x": 335,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "직",
+					"code": 51649,
+					"x": 348,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "진",
+					"code": 51652,
+					"x": 361,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "질",
+					"code": 51656,
+					"x": 374,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "짐",
+					"code": 51664,
+					"x": 387,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "집",
+					"code": 51665,
+					"x": 400,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "짓",
+					"code": 51667,
+					"x": 413,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "징",
+					"code": 51669,
+					"x": 427,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "짙",
+					"code": 51673,
+					"x": 440,
+					"y": 323,
+					"width": 11,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "짜",
+					"code": 51676,
+					"x": 452,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "째",
+					"code": 51704,
+					"x": 466,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쨌",
+					"code": 51724,
+					"x": 479,
+					"y": 323,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쩌",
+					"code": 51788,
+					"x": 493,
+					"y": 323,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쩍",
+					"code": 51789,
+					"x": 0,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쪽",
+					"code": 51901,
+					"x": 13,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쫓",
+					"code": 51923,
+					"x": 27,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "찌",
+					"code": 52236,
+					"x": 41,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "찍",
+					"code": 52237,
+					"x": 54,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "차",
+					"code": 52264,
+					"x": 67,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "착",
+					"code": 52265,
+					"x": 81,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "찬",
+					"code": 52268,
+					"x": 95,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "찮",
+					"code": 52270,
+					"x": 109,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "찰",
+					"code": 52272,
+					"x": 123,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "참",
+					"code": 52280,
+					"x": 137,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "찼",
+					"code": 52284,
+					"x": 151,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "창",
+					"code": 52285,
+					"x": 165,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "찾",
+					"code": 52286,
+					"x": 179,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "채",
+					"code": 52292,
+					"x": 193,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "책",
+					"code": 52293,
+					"x": 206,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "챌",
+					"code": 52300,
+					"x": 219,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "챕",
+					"code": 52309,
+					"x": 232,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "챙",
+					"code": 52313,
+					"x": 245,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "처",
+					"code": 52376,
+					"x": 258,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "척",
+					"code": 52377,
+					"x": 271,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "천",
+					"code": 52380,
+					"x": 284,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "철",
+					"code": 52384,
+					"x": 297,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "첩",
+					"code": 52393,
+					"x": 310,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "첫",
+					"code": 52395,
+					"x": 323,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "청",
+					"code": 52397,
+					"x": 337,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "체",
+					"code": 52404,
+					"x": 350,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쳐",
+					"code": 52432,
+					"x": 363,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쳤",
+					"code": 52452,
+					"x": 376,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "초",
+					"code": 52488,
+					"x": 390,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "촌",
+					"code": 52492,
+					"x": 404,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "총",
+					"code": 52509,
+					"x": 418,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "최",
+					"code": 52572,
+					"x": 432,
+					"y": 340,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "추",
+					"code": 52628,
+					"x": 445,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "축",
+					"code": 52629,
+					"x": 459,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "춘",
+					"code": 52632,
+					"x": 473,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "출",
+					"code": 52636,
+					"x": 487,
+					"y": 340,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "충",
+					"code": 52649,
+					"x": 0,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "춰",
+					"code": 52656,
+					"x": 14,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "취",
+					"code": 52712,
+					"x": 27,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "츠",
+					"code": 52768,
+					"x": 40,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "측",
+					"code": 52769,
+					"x": 54,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "치",
+					"code": 52824,
+					"x": 68,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "칙",
+					"code": 52825,
+					"x": 81,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "친",
+					"code": 52828,
+					"x": 94,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "칠",
+					"code": 52832,
+					"x": 107,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "침",
+					"code": 52840,
+					"x": 120,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "칩",
+					"code": 52841,
+					"x": 133,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "칭",
+					"code": 52845,
+					"x": 146,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "카",
+					"code": 52852,
+					"x": 159,
+					"y": 357,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "칵",
+					"code": 52853,
+					"x": 174,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "칼",
+					"code": 52860,
+					"x": 188,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "캐",
+					"code": 52880,
+					"x": 202,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "캠",
+					"code": 52896,
+					"x": 215,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "커",
+					"code": 52964,
+					"x": 228,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "컨",
+					"code": 52968,
+					"x": 241,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "컬",
+					"code": 52972,
+					"x": 254,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "컴",
+					"code": 52980,
+					"x": 267,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "컵",
+					"code": 52981,
+					"x": 280,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "컷",
+					"code": 52983,
+					"x": 293,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "케",
+					"code": 52992,
+					"x": 307,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "켈",
+					"code": 53000,
+					"x": 320,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "켓",
+					"code": 53011,
+					"x": 333,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "켜",
+					"code": 53020,
+					"x": 347,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "코",
+					"code": 53076,
+					"x": 360,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "콘",
+					"code": 53080,
+					"x": 374,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "콜",
+					"code": 53084,
+					"x": 388,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "콥",
+					"code": 53093,
+					"x": 402,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쿠",
+					"code": 53216,
+					"x": 416,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "쿼",
+					"code": 53244,
+					"x": 430,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "퀘",
+					"code": 53272,
+					"x": 443,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "퀸",
+					"code": 53304,
+					"x": 456,
+					"y": 357,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "큐",
+					"code": 53328,
+					"x": 469,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "크",
+					"code": 53356,
+					"x": 483,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "큰",
+					"code": 53360,
+					"x": 497,
+					"y": 357,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "클",
+					"code": 53364,
+					"x": 0,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "큼",
+					"code": 53372,
+					"x": 14,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "키",
+					"code": 53412,
+					"x": 28,
+					"y": 374,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "킨",
+					"code": 53416,
+					"x": 41,
+					"y": 374,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "킬",
+					"code": 53420,
+					"x": 54,
+					"y": 374,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "킵",
+					"code": 53429,
+					"x": 67,
+					"y": 374,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "킹",
+					"code": 53433,
+					"x": 80,
+					"y": 374,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "타",
+					"code": 53440,
+					"x": 93,
+					"y": 374,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탁",
+					"code": 53441,
+					"x": 106,
+					"y": 374,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탄",
+					"code": 53444,
+					"x": 119,
+					"y": 374,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탈",
+					"code": 53448,
+					"x": 132,
+					"y": 374,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탐",
+					"code": 53456,
+					"x": 145,
+					"y": 374,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탑",
+					"code": 53457,
+					"x": 158,
+					"y": 374,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탕",
+					"code": 53461,
+					"x": 171,
+					"y": 374,
+					"width": 12,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "태",
+					"code": 53468,
+					"x": 184,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "택",
+					"code": 53469,
+					"x": 196,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탠",
+					"code": 53472,
+					"x": 208,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탭",
+					"code": 53485,
+					"x": 220,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "탱",
+					"code": 53489,
+					"x": 232,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "터",
+					"code": 53552,
+					"x": 244,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "턴",
+					"code": 53556,
+					"x": 256,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "털",
+					"code": 53560,
+					"x": 268,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "테",
+					"code": 53580,
+					"x": 280,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "텍",
+					"code": 53581,
+					"x": 292,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "텐",
+					"code": 53584,
+					"x": 304,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "템",
+					"code": 53596,
+					"x": 316,
+					"y": 374,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "토",
+					"code": 53664,
+					"x": 328,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "톤",
+					"code": 53668,
+					"x": 342,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "톱",
+					"code": 53681,
+					"x": 356,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "통",
+					"code": 53685,
+					"x": 370,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "퇴",
+					"code": 53748,
+					"x": 384,
+					"y": 374,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "투",
+					"code": 53804,
+					"x": 397,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "툴",
+					"code": 53812,
+					"x": 411,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "튀",
+					"code": 53888,
+					"x": 425,
+					"y": 374,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "튜",
+					"code": 53916,
+					"x": 438,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "트",
+					"code": 53944,
+					"x": 452,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "특",
+					"code": 53945,
+					"x": 466,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "튼",
+					"code": 53948,
+					"x": 480,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "틀",
+					"code": 53952,
+					"x": 494,
+					"y": 374,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "티",
+					"code": 54000,
+					"x": 0,
+					"y": 391,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "틱",
+					"code": 54001,
+					"x": 12,
+					"y": 391,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "틴",
+					"code": 54004,
+					"x": 24,
+					"y": 391,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "팀",
+					"code": 54016,
+					"x": 36,
+					"y": 391,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "팅",
+					"code": 54021,
+					"x": 48,
+					"y": 391,
+					"width": 11,
+					"xoffset": 1,
+					"xadvance": 13
+				},
+				{
+					"char": "파",
+					"code": 54028,
+					"x": 60,
+					"y": 391,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "판",
+					"code": 54032,
+					"x": 75,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "팔",
+					"code": 54036,
+					"x": 89,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "패",
+					"code": 54056,
+					"x": 103,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "팩",
+					"code": 54057,
+					"x": 116,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "퍼",
+					"code": 54140,
+					"x": 129,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "펍",
+					"code": 54157,
+					"x": 142,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "펑",
+					"code": 54161,
+					"x": 155,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "페",
+					"code": 54168,
+					"x": 168,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "펜",
+					"code": 54172,
+					"x": 181,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "펠",
+					"code": 54176,
+					"x": 194,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "펫",
+					"code": 54187,
+					"x": 207,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "편",
+					"code": 54200,
+					"x": 221,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "펼",
+					"code": 54204,
+					"x": 234,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "평",
+					"code": 54217,
+					"x": 247,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "폐",
+					"code": 54224,
+					"x": 260,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "포",
+					"code": 54252,
+					"x": 273,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "폭",
+					"code": 54253,
+					"x": 287,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "폰",
+					"code": 54256,
+					"x": 301,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "폴",
+					"code": 54260,
+					"x": 315,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "표",
+					"code": 54364,
+					"x": 329,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "푸",
+					"code": 54392,
+					"x": 343,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "푹",
+					"code": 54393,
+					"x": 357,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "풀",
+					"code": 54400,
+					"x": 371,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "품",
+					"code": 54408,
+					"x": 385,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "풍",
+					"code": 54413,
+					"x": 399,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "프",
+					"code": 54532,
+					"x": 413,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "플",
+					"code": 54540,
+					"x": 427,
+					"y": 391,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "피",
+					"code": 54588,
+					"x": 441,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "픽",
+					"code": 54589,
+					"x": 454,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "핀",
+					"code": 54592,
+					"x": 467,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "필",
+					"code": 54596,
+					"x": 480,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "핑",
+					"code": 54609,
+					"x": 493,
+					"y": 391,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "하",
+					"code": 54616,
+					"x": 0,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "학",
+					"code": 54617,
+					"x": 14,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "한",
+					"code": 54620,
+					"x": 28,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "할",
+					"code": 54624,
+					"x": 42,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "함",
+					"code": 54632,
+					"x": 56,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "합",
+					"code": 54633,
+					"x": 70,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "항",
+					"code": 54637,
+					"x": 84,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "해",
+					"code": 54644,
+					"x": 98,
+					"y": 408,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "핼",
+					"code": 54652,
+					"x": 112,
+					"y": 408,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "했",
+					"code": 54664,
+					"x": 126,
+					"y": 408,
+					"width": 14,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "행",
+					"code": 54665,
+					"x": 141,
+					"y": 408,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "향",
+					"code": 54693,
+					"x": 155,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "허",
+					"code": 54728,
+					"x": 169,
+					"y": 408,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "험",
+					"code": 54744,
+					"x": 183,
+					"y": 408,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "헤",
+					"code": 54756,
+					"x": 196,
+					"y": 408,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "혀",
+					"code": 54784,
+					"x": 210,
+					"y": 408,
+					"width": 13,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "현",
+					"code": 54788,
+					"x": 224,
+					"y": 408,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "혈",
+					"code": 54792,
+					"x": 237,
+					"y": 408,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "협",
+					"code": 54801,
+					"x": 250,
+					"y": 408,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "혔",
+					"code": 54804,
+					"x": 263,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "형",
+					"code": 54805,
+					"x": 277,
+					"y": 408,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "혜",
+					"code": 54812,
+					"x": 290,
+					"y": 408,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "호",
+					"code": 54840,
+					"x": 303,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "혹",
+					"code": 54841,
+					"x": 317,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "혼",
+					"code": 54844,
+					"x": 331,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "홈",
+					"code": 54856,
+					"x": 345,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "홍",
+					"code": 54861,
+					"x": 359,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "화",
+					"code": 54868,
+					"x": 373,
+					"y": 408,
+					"width": 14,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "확",
+					"code": 54869,
+					"x": 388,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "환",
+					"code": 54872,
+					"x": 402,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "활",
+					"code": 54876,
+					"x": 416,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "황",
+					"code": 54889,
+					"x": 430,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "횃",
+					"code": 54915,
+					"x": 444,
+					"y": 408,
+					"width": 14,
+					"xoffset": -1,
+					"xadvance": 13
+				},
+				{
+					"char": "회",
+					"code": 54924,
+					"x": 459,
+					"y": 408,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "획",
+					"code": 54925,
+					"x": 472,
+					"y": 408,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "횟",
+					"code": 54943,
+					"x": 485,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "효",
+					"code": 54952,
+					"x": 499,
+					"y": 408,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "후",
+					"code": 54980,
+					"x": 0,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "훈",
+					"code": 54984,
+					"x": 14,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "훔",
+					"code": 54996,
+					"x": 28,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "훨",
+					"code": 55016,
+					"x": 42,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "휘",
+					"code": 55064,
+					"x": 55,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "휠",
+					"code": 55072,
+					"x": 68,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "휴",
+					"code": 55092,
+					"x": 81,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "흉",
+					"code": 55113,
+					"x": 95,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "흔",
+					"code": 55124,
+					"x": 109,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "흘",
+					"code": 55128,
+					"x": 123,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "흠",
+					"code": 55136,
+					"x": 137,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "흡",
+					"code": 55137,
+					"x": 151,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "흥",
+					"code": 55141,
+					"x": 165,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "흩",
+					"code": 55145,
+					"x": 179,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "희",
+					"code": 55148,
+					"x": 193,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "흰",
+					"code": 55152,
+					"x": 206,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "히",
+					"code": 55176,
+					"x": 219,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "힌",
+					"code": 55180,
+					"x": 232,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "힘",
+					"code": 55192,
+					"x": 245,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "힙",
+					"code": 55193,
+					"x": 258,
+					"y": 425,
+					"width": 12,
+					"xoffset": 0,
+					"xadvance": 13
+				},
+				{
+					"char": "￥",
+					"code": 65509,
+					"x": 271,
+					"y": 425,
+					"width": 9,
+					"xoffset": 2,
+					"xadvance": 13
+				},
+				{
+					"char": "￦",
+					"code": 65510,
+					"x": 281,
+					"y": 425,
+					"width": 13,
+					"xoffset": 0,
+					"xadvance": 13
+				}
+			]
+		}
+	},
+	"kernings": {
+		"{j": 1,
+		"y?": -1,
+		"y.": -1,
+		"y,": -1,
+		"(j": 2,
+		"*A": -1,
+		"*J": -1,
+		"*c": -1,
+		"*d": -1,
+		"*e": -1,
+		"*g": -1,
+		"*o": -1,
+		"*q": -1,
+		"w.": -1,
+		"w,": -1,
+		"v.": -1,
+		"v,": -1,
+		"t-": -1,
+		"ry": 1,
+		"rw": 1,
+		"rv": 1,
+		"A*": -1,
+		"r;": 1,
+		"r:": 1,
+		"r.": -1,
+		"r-": -1,
+		"AJ": 1,
+		"r,": -1,
+		"AT": -1,
+		"qj": 1,
+		"AV": -1,
+		"AW": -1,
+		"AY": -1,
+		"o'": -1,
+		"o\"": -1,
+		"n'": -1,
+		"n\"": -1,
+		"k;": 1,
+		"k:": 1,
+		"k.": 1,
+		"k-": -1,
+		"k,": 1,
+		"BT": -1,
+		"f}": 1,
+		"f]": 1,
+		"f;": 1,
+		"f:": 1,
+		"f.": -1,
+		"f-": -1,
+		"D,": -1,
+		"D.": -1,
+		"f,": -1,
+		"DT": -1,
+		"f)": 1,
+		"e'": -1,
+		"e\"": -1,
+		"cY": -1,
+		"cT": -1,
+		"[j": 2,
+		"ZJ": 1,
+		"Yü": -1,
+		"F,": -1,
+		"F.": -1,
+		"FA": -1,
+		"Yu": -1,
+		"Ys": -1,
+		"Yr": -1,
+		"Fa": -1,
+		"Yq": -1,
+		"Yp": -1,
+		"Yo": -1,
+		"Yn": -1,
+		"Ym": -1,
+		"J,": -1,
+		"J.": -1,
+		"Yg": -1,
+		"Ye": -1,
+		"Yd": -1,
+		"Yc": -1,
+		"Ya": -1,
+		"YA": -1,
+		"Y.": -1,
+		"Y,": -1,
+		"KC": -1,
+		"KG": -1,
+		"KJ": 1,
+		"KO": -1,
+		"KQ": -1,
+		"XJ": 1,
+		"X;": 1,
+		"Wa": -1,
+		"WA": -1,
+		"W.": -1,
+		"W,": -1,
+		"Vü": -1,
+		"Vu": -1,
+		"Vr": -1,
+		"Kv": -1,
+		"Vq": -1,
+		"Ky": -1,
+		"Vp": -1,
+		"Vo": -1,
+		"Vn": -1,
+		"Vm": -1,
+		"Vg": -1,
+		"Ve": -1,
+		"L*": -1,
+		"L?": -1,
+		"Vd": -1,
+		"Vc": -1,
+		"Va": -1,
+		"LJ": 1,
+		"VA": -1,
+		"V.": -2,
+		"LT": -1,
+		"V,": -1,
+		"LV": -1,
+		"Tü": -1,
+		"LY": -1,
+		"Tz": -1,
+		"Ty": -1,
+		"Lv": -1,
+		"Tx": -1,
+		"Ly": -1,
+		"Tw": -1,
+		"Tv": -1,
+		"Tu": -1,
+		"Ts": -1,
+		"O,": -1,
+		"O.": -1,
+		"Tr": -1,
+		"Tq": -1,
+		"OT": -1,
+		"Tp": -1,
+		"To": -1,
+		"Tn": -1,
+		"Tm": -1,
+		"P,": -2,
+		"P.": -2,
+		"PA": -1,
+		"Tg": -1,
+		"PJ": -1,
+		"Tf": -1,
+		"Te": -1,
+		"Td": -1,
+		"Pc": -1,
+		"Pd": -1,
+		"Pe": -1,
+		"Pg": -1,
+		"Po": -1,
+		"Pq": -1,
+		"Tc": -1,
+		"Ta": -1,
+		"TQ": -1,
+		"TO": -1,
+		"TJ": -1,
+		"TG": -1,
+		"TC": -1,
+		"TA": -1,
+		"Q,": -1,
+		"Q.": -1,
+		"T.": -1,
+		"QT": -1,
+		"T,": -1,
+		"R;": 1
+	}
+}

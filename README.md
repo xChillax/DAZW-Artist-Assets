@@ -6,11 +6,11 @@ Also thanks to Dandy for making the palette tree design used for the palettes pr
 This is an unofficial visual reference library of sprites and animation previews extracted from **Dead Ahead: Zombie Warfare**. It is intended to help community artists browse the game's assets! Enjoy! :)
 
 ## What can I find here?
-- `units/` — player units, zombies, marauders, support items.
-- `backgrounds/`, `map tiles/`, `cutscenes/`, `ui/`, and `fonts/` — HUD, world and level backgrounds, UI, etc.
-- `vehicles/` — buses, skins, parts, and other vehicles.
+- `units/` -- player units, zombies, marauders, support items.
+- `backgrounds/`, `map tiles/`, `cutscenes/`, `ui/`, and `fonts/` -- HUD, world and level backgrounds, UI, fonts, etc.
+- `vehicles/` -- buses, skins, parts, and other vehicles.
 
-The repository contains image files (PNG and GIF) for easy access to anything you might be looking for.
+You will find here pngs and gifs for easy access to anything you might be looking for.
 
 You should find most stuff named properly, having gifs, and also folders for their animations where I saw fitting.
 
@@ -18,8 +18,6 @@ I also included palette files and previews of certain assets for easier usage! (
 
 ## Copyright and permissions
 Dead Ahead: Zombie Warfare, its game art and assets, are the property of Mobirate.
-
-No license to use, modify, or redistribute Mobirate's game assets is granted by this repository. It is worth to mention that just crediting Mobirate does not replace explicit permission.
 
 From Mobirate themselves (pharaprased): Assets are also fine to use in any fan works as long as they are not monetized.
 

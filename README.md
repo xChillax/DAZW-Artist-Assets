@@ -1,3 +1,10 @@
+If you wish to support me click the following links:
+
+[![Ko-fi](https://i.imgur.com/JpoF8Cn.png)](https://ko-fi.com/chillaxo)
+[![Patreon](https://i.imgur.com/bSJveHK.png)](https://www.patreon.com/c/Chillax420)
+[![PayPal](https://i.imgur.com/PXWIHPm.png)](https://paypal.me/chillychillax)
+[![Boosty](https://i.imgur.com/wlViIXU.png)](https://boosty.to/chillaxo)
+
 # DAZW Artist Assets
 Provided by yours truly, Chillax.
 

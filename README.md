@@ -23,6 +23,11 @@ You should find most stuff named properly, having gifs, and also folders for the
 
 I also included palette files and previews of certain assets for easier usage! (such as the map tiles, and level backgrounds)
 
+## How do I download a single folder?
+You can use https://download-directory.github.io/
+
+Just go to the folder you want, copy the URL from it, paste it on that site above and it will give you a zip of it.
+
 ## Copyright and permissions
 Dead Ahead: Zombie Warfare, its game art and assets, are the property of Mobirate.
 

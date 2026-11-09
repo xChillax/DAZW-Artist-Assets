@@ -14,10 +14,13 @@ This is an unofficial visual reference library of sprites and animation previews
 
 ## What can I find here?
 - `Dead Ahead Zombie Warfare/`:
-  - `units/` -- player units, zombies, marauders, support items.
-  - `backgrounds/`, `map tiles/`, `cutscenes/`, `ui/`, and `fonts/` -- HUD, world and level backgrounds, UI, fonts, etc.
-  - `vehicles/` -- buses, skins, parts, and other vehicles.
-- `The Zombies/` -- sprites version 0.952 (bike game)
+  - `units/`: player units, zombies, marauders, support items.
+  - `backgrounds/`, `map tiles/`, `cutscenes/`, `ui/`, and `fonts/`: HUD, world and level backgrounds, UI, fonts, etc.
+  - `vehicles/`: buses, skins, parts, and other vehicles.
+- `The Zombies/`: sprites version 0.952 (bike game)
+  - `entities/`: player and zombies
+  - `backgrounds/`, `hud/`, `cutscenes/`, `ui/`, and `fonts/`: HUD, props and level backgrounds, UI, bike HUD, etc.
+  - `vehicles/`: car, trucks, etc.
 
 You will find here pngs and gifs for easy access to anything you might be looking for.
 

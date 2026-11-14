@@ -21,6 +21,8 @@ This is an unofficial visual reference library of sprites and animation previews
   - `entities/`: player and zombies
   - `backgrounds/`, `hud/`, `cutscenes/`, `ui/`, and `fonts/`: HUD, props and level backgrounds, UI, bike HUD, etc.
   - `vehicles/`: car, trucks, etc.
+- `afterdoomsday/`: sprites from the scrapped, never released **Dead Ahead: Afterdoomsday** game. Only has art from the previews the devs showed.
+  - `backgrounds/`: scenes taken from those previews (cleaned up to one pixel per art pixel).
 
 You will find here pngs and gifs for easy access to anything you might be looking for.
 
